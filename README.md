@@ -12,7 +12,6 @@ Features:
     Multithreaded, lightweight and fast!
     
     
- LINK TO DOWNLOAD .
- https://drive.google.com/file/d/1_0tTmrgc3xHQ5qrYDdQlBiM05FHrYrDae
+ 
  
  Donate to support develepement : 1LLe5ozsWQW4yWT7LhzRmk6ZS1K8T797Df
